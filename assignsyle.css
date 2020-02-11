@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color:yellow;
+    background: black;
+}
+p{
+    text-align: justify;
+    font-size: 16px;
+    color: red;
+}
+div{
+    background-color: lightblue;
+}
+img {
+    background-color: darkblue;
+}
+ul {
+    color: green;
+    font-family: cursive;
+}
+ol{
+    color: indigo;
+    font-family: monospace;
+}
+
